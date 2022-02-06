@@ -48,7 +48,7 @@ public class EntityArrow extends EntityProjectile {
 
     @Override
     public float getGravity() {
-        return 0.05f;
+        return 0.03f;
     }
 
     @Override
